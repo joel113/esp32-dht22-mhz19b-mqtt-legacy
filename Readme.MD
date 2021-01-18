@@ -1,1 +1,1 @@
-# ESP-32 DHT-22 Sensor Values to MQTT
+# ESP-32 DHT-22 MH-Z19B Sensor Values to MQTT
