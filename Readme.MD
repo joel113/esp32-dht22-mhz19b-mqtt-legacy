@@ -2,6 +2,8 @@
 
 This project is about reading dht22 and mhz19 sensor values and submit the sensor values to a mqtt broker.
 
+This is a legacy project. Please go to https://github.com/joel113/esp32-co2-mqtt for the platform io based implementation.
+
 # ESP32
 
 In this project I am using an ESP-32S NodeMCU with a V1.1 pinout.
